@@ -1,2 +1,2 @@
 # googletendsapi
-Generate google trends using python
+Generate google trends using python for the given key words
