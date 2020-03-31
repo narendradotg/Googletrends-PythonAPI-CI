@@ -22,6 +22,8 @@ def get_totalstats():
 	total_blue=df['blue'].sum()
 	total_red=df['red'].sum()
 	return (total_blue, total_red)
-print("***************TRENDS FOR KEYWORDS *****************")
+
+print("***************START OF TRENDS FOR KEYWORDS *****************")
 print("KEYWORDS", KEYWORDS )
 print (get_totalstats())
+print("***************END OF TRENDS FOR KEYWORDS *****************")
